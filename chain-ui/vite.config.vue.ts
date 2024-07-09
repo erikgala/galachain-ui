@@ -30,7 +30,7 @@ export default defineConfig({
     outDir: 'packages/galachain-ui-vue/dist',
     lib: {
       entry: path.resolve(__dirname, 'src/vue-package.ts'),
-      formats: ['es', 'umd', 'cjs'],
+      formats: ['es', 'umd'],
       name: '@gala-chain/ui',
       fileName: (format) => `gala-chain-ui.${format}.js`
     },
