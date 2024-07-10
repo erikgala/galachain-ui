@@ -1,5 +1,5 @@
 <script lang="ts">
-import MintToken from '@/components/MintToken.vue'
+import MintToken from '@/components/MintToken.vue';
 // import { defineComponent, h } from 'vue';
 
 // Figure out a way to extend component and add styles, this almost works but props aren't reacting

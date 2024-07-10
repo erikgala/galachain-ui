@@ -1,5 +1,5 @@
 <script lang="ts">
-import MintTokenWithAllowance from '@/components/MintTokenWithAllowance.vue'
+import MintTokenWithAllowance from '@/components/MintTokenWithAllowance.vue';
 // import { defineComponent, h } from 'vue';
 
 // export default defineComponent({

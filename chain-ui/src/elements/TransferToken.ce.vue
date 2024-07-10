@@ -1,5 +1,5 @@
 <script lang="ts">
-import TransferToken from '@/components/TransferToken.vue'
+import TransferToken from '@/components/TransferToken.vue';
 // import { defineComponent, h } from 'vue'
 
 // export default defineComponent({
