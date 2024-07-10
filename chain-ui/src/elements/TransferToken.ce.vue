@@ -1,16 +1,20 @@
 <script lang="ts">
-import TransferToken from '@/components/TransferToken.vue';
-import { h } from 'vue';
-import { defineComponent } from 'vue';
+import TransferToken from '@/components/TransferToken.vue'
+// import { defineComponent, h } from 'vue'
 
-export default defineComponent({
-  extends: TransferToken,
-  render: () => h(TransferToken)
-})
+// export default defineComponent({
+//   extends: TransferToken,
+//   setup(props, { slots, attrs, emit }) {
+//     return () => h(TransferToken, { ...props, ...attrs, emit }, slots)
+//   }
+// })
+
+// TODO - figure out how to properly wrap the component
+export default TransferToken
 </script>
 
 <style lang="css">
-  @tailwind base;
-  @tailwind components;
-  @tailwind utilities;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 </style>
