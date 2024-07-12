@@ -1,8 +1,7 @@
 {
-  "name": "@jordangala/galachain-ui",
-  "author": "174337295+jordangala@users.noreply.github.com",
+  "name": "@galachain/galachain-ui-parent",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "license": "Apache-2.0",
   "scripts": {

@@ -1,7 +1,6 @@
 {
-  "name": "@jordangala/galachain-ui-vue",
-  "author": "174337295+jordangala@users.noreply.github.com",
-  "version": "0.0.3",
+  "name": "@gala-chain/galachain-ui-vue",
+  "version": "0.0.1",
   "type": "module",
   "license": "Apache-2.0",
   "files": [
